@@ -1,7 +1,5 @@
 module Hello (hello) where
 
 hello :: IO ()
-hello = putStrLn "Hello, World!"
+hello = putStrLn "Goodbye, World!"
 
-hey :: IO ()
-hey = putStrLn "Hey!"
